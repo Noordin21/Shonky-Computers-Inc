@@ -1,0 +1,18 @@
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.exe
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.xml
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky_Computers_Inc.Form1.resources
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky_Computers_Inc.Resources.resources
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.vbproj.GenerateResource.Cache
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.exe
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.xml
+C:\Users\hp\AppData\Local\Temporary Projects\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.pdb
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.exe
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.xml
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.pdb
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.exe
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.pdb
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\bin\Debug\Shonky Computers Inc.xml
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky_Computers_Inc.Form1.resources
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky_Computers_Inc.Resources.resources
+C:\Users\hp\Desktop\Sem 4\Application Programming\Shonky Computers Inc\Shonky Computers Inc\obj\x86\Debug\Shonky Computers Inc.vbproj.GenerateResource.Cache
